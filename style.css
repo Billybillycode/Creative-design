@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@300;400;700&family=Monoton&display=swap');
+
 * {
-    background-color: rgb(11, 109, 196);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    outline: none;
+    font-family: 'bellota text', 'cursive';
+    font-weight: 400;
+}
+
+html {
+    font-size: 62.5%;
 }
